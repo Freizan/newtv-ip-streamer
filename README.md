@@ -14,9 +14,11 @@ Le package est composé de trois éléments
 =========================================
 
 - multicat-supervisor: lance les streams IP et injecte les eit définis en base de données
+
 github: https://github.com/orange-tv-blagnac/multicat-supervisor.git
 
 - stream-manager: GUI pour piloter le supervisor et alimenter la base de données
+
 github: https://github.com/orange-tv-blagnac/stream-manager.git
 
 - base de données Mysql: script de création dans stream-manager/scripts
@@ -26,6 +28,7 @@ DOCUMENTATION
 =========================================
 
 /doc
-	StreamManagerAdmin-1.1.pdf
-	StreamManageUser-1.0.pdf
+
+* StreamManagerAdmin-1.1.pdf
+* StreamManageUser-1.0.pdf
 	
